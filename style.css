@@ -1,0 +1,19 @@
+img{
+  width:200px;
+  border-radius:50%;
+     border-style: solid;
+   
+    border-color: black;
+    border-width: 5px;
+}
+
+body{
+     background:linear-gradient(#4191f2 10% , #47e3f5 100%  ) ;
+  
+    
+}
+
+p{
+    font-size: 40px;
+    font-family:  'Playfair Display', serif;
+}
